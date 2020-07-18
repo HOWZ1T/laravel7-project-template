@@ -1,0 +1,17 @@
+{
+    "compilerOptions": {
+        "target": "ES6",
+        "strict": true,
+        "module": "ES6",
+        "moduleResolution": "node",
+        "experimentalDecorators": true,
+        "skipLibCheck": true,
+    },
+    "include": [
+        "resources/js/**/*",
+    ],
+    "exclude": [
+        "node_modules",
+        "vendor",
+    ]
+}
